@@ -4,7 +4,7 @@ Hello ! I am Niharika
 Aspiring Software Engineer 
 ---------------------------
 
-B.Tech undergraduate in Computer Science at JUIT, Solan. With a keen interest in emerging technologies, well-versed in blockchain, solidity, DApp development, web development and DSA. Expertise in blockchain technology encompasses a deep understanding of blockchain architecture, consensus mechanisms, and DApps. Proficient in Solidity, I can create secure and efficient smart contracts. In web development, I excels in HTML, CSS, JavaScript, and other front-end and back-end technologies, crafting intuitive user interfaces. Also a competitive programmer, participating in coding competitions and hackathons.
+B.Tech graduate in Computer Science at JUIT, Solan. With a keen interest in blockchain, solidity, web development and DSA. 
 
 * 🌍  I'm based in Haryana , India
 * ✉️  You can contact me at [niharka86074@gmail.com](mailto:niharka86074@gmail.com)
