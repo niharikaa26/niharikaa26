@@ -1,7 +1,5 @@
 Hello ! I am Niharika 
 ========================================================================================================================================
-
-Aspiring Software Engineer 
 ---------------------------
 
 B.Tech graduate in Computer Science at JUIT, Solan. With a keen interest in blockchain, solidity, web development and DSA. 
